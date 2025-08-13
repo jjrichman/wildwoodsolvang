@@ -39,7 +39,7 @@ body {
     object-fit: cover;
 }
 header {
-    padding: 10px 0; /* Unchanged */
+    padding: 10px 0;
 }
 header .logo {
     max-width: 260px;
@@ -47,14 +47,14 @@ header .logo {
 }
 
 main {
-    padding: 10px 0; /* Reduced from 20px */
+    padding: 10px 0;
     flex-grow: 1;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 section {
-    margin-bottom: 40px; /* Reduced from 100px */
+    margin-bottom: 40px;
 }
 
 .tenant-logos {
@@ -70,3 +70,4 @@ section {
 .tenant-logos img {
     max-width: 150px;
     max-height:
+
